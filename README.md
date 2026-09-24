@@ -1,6 +1,7 @@
 # HR Employee Attrition Analysis — H&S Pharmaceuticals
 
 **Tools:** Excel (PivotTables, IFS/DATEDIF formulas, Slicers)
+**Full write-up:** https://app.notion.com/p/32eb332e9de280c79cfff763fd2bdabb (Notion case study)
 
 ## Overview
 Analysis of a 12.24% attrition rate among 1,470 employees, identifying the key drivers behind who leaves and when.
